@@ -38,7 +38,7 @@ const Footer = () => {
           <a
             href="https://www.facebook.com/"
             className="footer_social-link"
-            target="_blank"
+            
           >
             <i class="bx bxl-facebook"></i>
           </a>
@@ -46,7 +46,7 @@ const Footer = () => {
           <a
             href="https://www.instagram.com/"
             className="footer_social-link"
-            target="_blank"
+          
           >
             <i class="bx bxl-instagram"></i>
           </a>
@@ -54,7 +54,7 @@ const Footer = () => {
           <a
             href="https://twitter.com/saurabh20010711"
             className="footer_social-link"
-            target="_blank"
+            
           >
             <i class="bx bxl-twitter"></i>
           </a>
