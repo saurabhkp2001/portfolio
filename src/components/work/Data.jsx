@@ -27,7 +27,7 @@ export const projectData=[
         id:4,
         image: Works2,
         title:'Weather App',
-        url:"https://saurabhkp2001.github.io/Weather-App/"
+        url:"https://saurabhkp2001.github.io/WeatherApp/"
     },
     {
         id:5,
