@@ -3,6 +3,7 @@ import Works2 from "../../assets/projects/projectTwo.jpg";
 import Works3 from "../../assets/projects/projectThree.jpg";
 import Works4 from "../../assets/projects/projectFour.jpg";
 import Works5 from "../../assets/projects/mistore.jpg";
+import Works6 from "../../assets/projects/dotolist.jpg";
 
 export const projectData=[
     {
@@ -31,6 +32,12 @@ export const projectData=[
     },
     {
         id:5,
+        image: Works6,
+        title:'Zomato Clone Frontend',
+        url:"https://saurabhkp2001.github.io/to-do-list/"
+    },
+    {
+        id:6,
         image: Works3,
         title:'Zomato Clone Frontend',
         url:"https://saurabhkp2001.github.io/Zomato-clon/"
