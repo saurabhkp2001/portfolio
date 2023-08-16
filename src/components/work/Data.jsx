@@ -33,14 +33,14 @@ export const projectData=[
     {
         id:5,
         image: Works6,
-        title:'Zomato Clone Frontend',
+        title:'To-do-list',
         url:"https://saurabhkp2001.github.io/to-do-list/"
     },
     {
         id:6,
         image: Works3,
-        title:'Zomato Clone Frontend',
-        url:"https://saurabhkp2001.github.io/Zomato-clon/"
+        title:'Fully Responsive E-Commerce Website',
+        url:"https://astonishing-biscotti-e9587c.netlify.app/"
     },
     
    
